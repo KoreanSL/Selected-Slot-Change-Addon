@@ -7,4 +7,4 @@
 //개인톡 : https://open.kakao.com/o/sOcBMAQc
 //채팅방 : https://open.kakao.com/o/gYcpPn6d
 */
-import{world}from"mojang-minecraft";world.events.tick.subscribe(()=>{for(let player of world.getPlayers()){for(let i = 1; i<9; i++)if(player.hasTag("slot:"+i))[player.removeTag("slot:"+Number(i)), player.selectedSlot = Number(i-1)]}})
+import{world}from"mojang-minecraft";world.events.tick.subscribe(()=>{for(let player of world.getPlayers()){for(let i = 1; i<10; i++)if(player.hasTag("slot:"+i))[player.removeTag("slot:"+Number(i)), player.selectedSlot = Number(i-1)]}})
