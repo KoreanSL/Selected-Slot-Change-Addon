@@ -4,5 +4,5 @@
 ```js
 - /tag <targets> add "slot:[number]"
 
-  └[number] : 0~9
+  └[number] : 1~9
 ```
