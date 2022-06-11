@@ -3,4 +3,4 @@
 
 - /tag <targets> add "slot:[number]"
 
-  └[number] : 0~9
+###  └[number] : 0~9
