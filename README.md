@@ -1,6 +1,6 @@
 # SelectedSlot Change Addon
 ### asdf
-[ How to use ](#How to use)
+[나무위키](https://namu.wiki/w/나무위키:대문)
 
 # How to use
 ```js
