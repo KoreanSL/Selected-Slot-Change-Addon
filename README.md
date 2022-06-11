@@ -1,6 +1,7 @@
 # SelectedSlot Change Addon
 ### asdf
 [⟬ How to use ⟭](#How-to-use)
+[⟦ How to use ⟧](#How-to-use)
 
 # How to use
 ```js
