@@ -1,6 +1,6 @@
 # Selected-Slot-Change-Addon
 # How to use
-```json
+```js
 - /tag <targets> add "slot:[number]"
 
   └[number] : 0~9
